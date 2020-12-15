@@ -5,7 +5,8 @@
 }
 
  body{
-     background-color: #2b88f0;
+     background-color: #8cada7;
+     /* background-color: #bf8b85; */
      font-family: 'Muli', sans-serif;
      display: flex;
      margin: 0;
@@ -39,7 +40,7 @@
  }
 
  .tag{
-     background-color: #f0932b;
+     background-color: #a5d0a8;
      color: white;
      border-radius: 50px;
      padding: 10px 20px;
@@ -50,5 +51,5 @@
  }
 
  .tag.highlight{
-     background-color: #273c75;
+     background-color: #d0d6b5;
  }
